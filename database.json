@@ -2029,6 +2029,54 @@
       "FinalPrice": 99.99
     },
     {
+      "Id": "985RF",
+      "Category": "tents",
+      "IsClearance": false,
+      "IsNew": false,
+      "Url": "/product/985rf/",
+      "Reviews": {
+        "ReviewsUrl": "/reviewsbyproduct/985rf/",
+        "ReviewCount": 0,
+        "AverageRating": 0
+      },
+      "NameWithoutBrand": "Talus Tent - 4-Person, 3-Season",
+      "Name": "The North Face Talus Tent - 4-Person, 3-Season",
+      "Images": {
+        "PrimarySmall": "https://wdd330-backend-osp8.onrender.com/images/tents/tent-the-north-face-talus-80.jpg",
+        "PrimaryMedium": "https://wdd330-backend-osp8.onrender.com/images/tents/tent-the-north-face-talus-160.jpg",
+        "PrimaryLarge": "https://wdd330-backend-osp8.onrender.com/images/tents/tent-the-north-face-talus-320.jpg",
+        "PrimaryExtraLarge": "https://wdd330-backend-osp8.onrender.com/images/tents/tent-the-north-face-talus-600.jpg",
+        "ExtraImages": [
+          {
+            "Title": "Alternate View",
+            "Src": "https://wdd330-backend-osp8.onrender.com/images/tents/tent-the-north-face-talus-alternate-2-600.jpg"
+          },
+          {
+            "Title": "Alternate View",
+            "Src": "https://wdd330-backend-osp8.onrender.com/images/tents/tent-the-north-face-talus-alternate-3-600.jpg"
+          }
+        ]
+      },
+      "SizesAvailable": {},
+      "Colors": [
+        {
+          "ColorCode": "01",
+          "ColorName": "Golden Oak/Saffron Yellow"
+        }
+      ],
+      "DescriptionHtmlSimple": "<strong>Closeout</strong>. Enjoy a fun night under stars with your favorite people in The North Face&#39;s Talus four-person tent, featuring durable construction with a roomy interior, an advanced DAC <a class=\"glossaryTermLink\" href=\"/featherlite~g~1835\" title=\"Featherlite: - Unusually strong aluminum poles used for tents. DAC Featherlite tent poles use a system of three small metal sleeves to give the poles added strength and flex, while keeping them as lightweight as possible. Up to 15% lighter than aluminum poles of comparable strength, Featherlite poles are the strongest joint system built for tents.\">Featherlite</a> NSL pole system and an easy to pitch design.",
+      "SuggestedRetailPrice": 299.0,
+      "Brand": {
+        "Id": "1440",
+        "Url": "/brand/1440/",
+        "ProductsUrl": "/products?Brand=1440",
+        "LogoSrc": "https://wdd330-backend-osp8.onrender.com/images/brands/thenorthface.jpg",
+        "Name": "The North Face"
+      },
+      "ListPrice": 199.99,
+      "FinalPrice": 199.99
+    },
+    {
       "Id": "985PR",
       "Category": "tents",
       "IsClearance": false,
